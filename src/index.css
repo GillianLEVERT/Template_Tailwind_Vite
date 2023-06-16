@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 .ButtonSubmit {
     color: #111827; /* text-gray-900 */
     background-image: linear-gradient(to right, #a7f3d2, #6ee7b7, #2dd4a7); /* bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 */
